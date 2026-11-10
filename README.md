@@ -6,7 +6,7 @@
 
 Building reliable applications, exploring secure architectures, and automating real-world workflows.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-aymane-jlida-573a79349)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/med-aymane-jlida)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedaymane140@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/M-Aymane-404)
 ![Location](https://img.shields.io/badge/Location-Morocco-64748B?style=flat-square)
